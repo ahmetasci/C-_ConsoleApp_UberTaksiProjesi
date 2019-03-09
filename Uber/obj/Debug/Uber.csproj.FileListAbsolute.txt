@@ -1,0 +1,16 @@
+C:\Users\Section2\source\repos\Uber\Uber\obj\Debug\Uber.csprojResolveAssemblyReference.cache
+C:\Users\Section2\source\repos\Uber\Uber\obj\Debug\Uber.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\Uber\Uber\bin\Debug\Uber.exe.config
+C:\Users\Section2\source\repos\Uber\Uber\bin\Debug\Uber.exe
+C:\Users\Section2\source\repos\Uber\Uber\bin\Debug\Uber.pdb
+C:\Users\Section2\source\repos\Uber\Uber\obj\Debug\Uber.exe
+C:\Users\Section2\source\repos\Uber\Uber\obj\Debug\Uber.pdb
+C:\Users\AHMET\Desktop\Uber\Uber\bin\Debug\Uber.exe.config
+C:\Users\AHMET\Desktop\Uber\Uber\obj\Debug\Uber.exe
+C:\Users\AHMET\Desktop\Uber\Uber\obj\Debug\Uber.pdb
+C:\Users\AHMET\Desktop\Uber\Uber\bin\Debug\Uber.exe
+C:\Users\AHMET\Desktop\Uber\Uber\bin\Debug\Uber.pdb
+C:\Users\AHMET\Desktop\Uber\Uber\obj\Debug\Uber.csprojResolveAssemblyReference.cache
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\C#\Uber\Uber\bin\Debug\Uber.exe.config
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\C#\Uber\Uber\obj\Debug\Uber.exe
+C:\Users\AHMET\Desktop\MICROSOFT VİSUAL ÇALIŞMALAR\C#\Uber\Uber\obj\Debug\Uber.pdb
